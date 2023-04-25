@@ -20,6 +20,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ## Instalação 
 **Linguagem**: JavaScript<br>
 **Framework**: TypeScript<br>
+
+sudo apt-get install python3-tk
+
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
