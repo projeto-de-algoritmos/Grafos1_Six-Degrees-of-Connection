@@ -50,6 +50,8 @@ Para utilizar o programa não é necessário nenhuma lib ou framework externo. A
 6.1. Caso não possuam um filme em comum, irá apresentar quantos graus são necessários até ser possível encontrar ator target.
 
 ## Outros 
-Se o programa não encontrar uma conexão entre os nós de celebridades, percorrer 1000 nós pode ser suficiente para interromper a aplicação. Isso evita que a aplicação entre em um loop quase infinito devido ao tamanho do dataset
+Se o programa não encontrar uma conexão entre os nós de celebridades, percorrer 1000 nós pode ser suficiente para interromper a aplicação. Isso evita que a aplicação entre em um loop quase infinito devido ao tamanho do dataset.
+
+Link para apresentação se encontra no about do projeto.
 
 
