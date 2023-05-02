@@ -1,4 +1,4 @@
-class PilasAdjacentes():
+class FilasAdjacentes():
   def __init__(self):
     self.vizinhos = []
 
@@ -11,16 +11,6 @@ class PilasAdjacentes():
   def empty(self):
     return len(self.vizinhos) == 0
 
-  def remove(self):
-    if self.empty():
-      raise Exception("vazio")
-    else:
-      node = self.vizinhos[-1]
-      self.vizinhos = self.vizinhos[:-1]
-      return node
-
-
-class FilasAdjacentes(PilasAdjacentes):
   def remove(self):
     if self.empty():
       raise Exception("vazio")
