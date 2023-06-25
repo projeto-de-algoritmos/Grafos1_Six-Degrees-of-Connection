@@ -15,6 +15,8 @@
 
 Nosso projeto se baseia na ideia inicial do grafo de Kevin Bacon, que é um exemplo de grafo onde cada nó representa um ator ou atriz e cada aresta representa uma conexão entre dois atores que atuaram juntos em um filme ou programa de TV. O objetivo original do grafo era mostrar quais atores têm uma relação mais próxima com Kevin Bacon e quantos graus de separação existem entre eles. No entanto, em nosso projeto, não nos limitamos a procurar apenas as conexões de Kevin Bacon. Em vez disso, expandimos o alcance do grafo para incluir qualquer ator ou atriz em nosso conjunto de dados. Dessa forma, é possível explorar as conexões entre todas as celebridades disponíveis e analisar as diferentes redes de conexões dentro da indústria do entretenimento.
 
+[links da apresentação](https://www.youtube.com/live/cZ59l43zDQU?feature=share)
+
 ## Screenshots
 
 # Print da busca entre Bruna Marquezine e Tom Holland
